@@ -164,6 +164,7 @@ body {
 
 /* Footer */
 .footer {
+  padding-top: 20px;
   margin-top: 80px;
   font-size: 0.75rem;
   color: rgba(27, 48, 89, 0.7);
